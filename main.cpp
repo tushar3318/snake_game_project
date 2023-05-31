@@ -88,7 +88,7 @@ int main()
             // STATUS
                  settextstyle(8, HORIZ_DIR, 5);
                  outtextxy(850, 13, "STATUS:");
-                 if (getlength() == 30)
+                 if (getlength() == 60)
                  {
                       outtextxy(1030, 13, "YOU WON !");
                       playing=false;
