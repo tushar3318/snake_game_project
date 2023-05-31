@@ -56,11 +56,12 @@ In this project we had created a single player snake game using c language and g
 ![Loading](https://github.com/tushar3318/snake_game_project/assets/129083230/3c821096-013f-4191-b255-aa613bdcc25e)
                                                Loading screen
 
+![playing](https://github.com/tushar3318/snake_game_project/assets/129083230/fe0f5c8d-10e5-419b-8742-cdd465a5fada)
+                                               Playing screen
+                                               
 ![player out](https://github.com/tushar3318/snake_game_project/assets/129083230/9f1ec02c-2586-4cea-a2c1-78de8ca7d8a5)
                                              Player out screen
 
-![playing](https://github.com/tushar3318/snake_game_project/assets/129083230/fe0f5c8d-10e5-419b-8742-cdd465a5fada)
-                                               Playing screen
 
 
 - ### Demo Video
