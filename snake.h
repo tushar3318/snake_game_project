@@ -7,8 +7,8 @@ struct POS
        int x,y;
        POS()
        {
-            x = -50;
-            y = 0;
+            x = 90;
+            y = 90;
        }
 };
 
