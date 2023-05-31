@@ -3,7 +3,7 @@
 
 void draw();
 void generate(int snakeHeadx, int snakeHeady);
-void update(int snakeHeadx, int snakeHeady);
+bool update(int snakeHeadx, int snakeHeady);
 struct POS foodPos;
 
 void draw()                       // DRAW THE FOOD
