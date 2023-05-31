@@ -16,7 +16,7 @@ struct POS
 struct snakeBody
 {
 
-        POS arr[31];            // THIHS ARRAY IS GOING TO CONTAIN THE POSITIONS OF WHOLE SNAKE
+        POS arr[500];            // THIHS ARRAY IS GOING TO CONTAIN THE POSITIONS OF WHOLE SNAKE
         int direction;
         int length;
 
