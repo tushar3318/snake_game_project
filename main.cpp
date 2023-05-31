@@ -14,6 +14,7 @@ int main()
     int page=0;
 
     //loading screen
+    readimagefile("snake2.jpg",500,150,820,300);
     settextstyle(8, HORIZ_DIR, 4);
     outtextxy(500, 320, "LOADING GAME ...");
     rectangle(500,370,820,380);
