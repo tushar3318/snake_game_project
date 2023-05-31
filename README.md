@@ -66,6 +66,5 @@ In this project we had created a single player snake game using c language and g
 
 
 - ### Demo Video
-
-https://drive.google.com/drive/folders/1ERjq7YuIV5kFgAA269IWDC5pV-bxU4WG?usp=sharing
+https://drive.google.com/file/d/1L7QM9O3-ZLDatHqoqofTSvd11X9Sj9J2/view?usp=drive_link
 
