@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1685530621 source:c:\users\tusha\desktop\snake_game_project\main_code\main.cpp
+	<graphics.h>
+	"snake.h"
+	"food.h"
+
+1685529178 c:\users\tusha\desktop\snake_game_project\main_code\snake.h
+	<graphics.h>
+
+1685529178 c:\users\tusha\desktop\snake_game_project\main_code\food.h
+	<graphics.h>
+	<ctime>
+
