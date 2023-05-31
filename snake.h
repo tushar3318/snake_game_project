@@ -88,7 +88,7 @@ void drawSnake()         // DRAWING THE WHOLE SNAKE
 
 void appendSnake()
 {
-     if(snakeBody.length < 40)                            // PREVENTS THE LENGTH FROM GOING GREATER THAN 39
+     if(snakeBody.length < 60)                            // PREVENTS THE LENGTH FROM GOING GREATER THAN 39
         snakeBody.length++;
 }
 
