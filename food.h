@@ -1,10 +1,5 @@
 #include <graphics.h>
 #include <ctime>
-
-void draw();
-void generate(int , int snakeHeady);
-bool update(int snakeHeadx, int snakeHeady);
-
 struct POS foodPos;
 
 void draw()                       // DRAW THE FOOD
