@@ -53,7 +53,8 @@ In this project we had created a single player snake game using c language and g
 6. Press "esc" to exit the game.
 ## Screenshots and Demo 
 - ### Screenshots
-![Loading](https://github.com/tushar3318/snake_game_project/assets/129083230/3c821096-013f-4191-b255-aa613bdcc25e)
+![Loading](https://github.com/tushar3318/snake_game_project/assets/129083230/8419566c-2993-4c39-bebb-06f90a0be4ef)
+
                                                Loading screen
 
 ![playing](https://github.com/tushar3318/snake_game_project/assets/129083230/fe0f5c8d-10e5-419b-8742-cdd465a5fada)
