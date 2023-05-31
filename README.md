@@ -28,8 +28,9 @@ In this project we had created a single player snake game using c language and g
   - ### Game setup
  1. Download the zip file of our project by going in code option in github.
  2. Extract the files.
- 3. Open the CodeBlocks click on open existing project then select that folder where you had extracted all files.
- 4. run the code.
+ 3. Open the CodeBlocks click on open existing project then go to that folder where you had extracted all files.
+ 4. Select  "main_code" file.
+ 5. Run the code.
 
    
 
