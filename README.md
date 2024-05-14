@@ -3,6 +3,7 @@
 
 In this project we had created a single player snake game using c language and graphics.h library. In this game, snake will eat the food and become long. Obstacles will leads to snake death and also when snake eats itself.
 
+In this project we had created a single player snake game using c language and graphics.h library. In this game, snake will eat the food and become long. Obstacles will leads to snake d
 
 ## Installation
 
